@@ -1,0 +1,9 @@
+@import url('./views/main-view.css');
+@import url('./views/f-ap-view.css');
+@import url('./views/about-view.css');
+@import url('./views/farms-view.css');
+@import url('./views/lots-view.css');
+@import url('./views/crops-view.css');
+@import url('./views/map-view.css');
+@import url('./views/logout-view.css');
+@import url('leaflet/dist/leaflet.css');
